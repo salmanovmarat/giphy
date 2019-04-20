@@ -1,0 +1,74 @@
+body{
+    background:#eee;
+    font:20px;
+}
+
+#animalSwitch{
+    padding: 20px;
+    margin: 20px auto;
+    clear: both;
+}
+
+
+#anmial-form{
+    padding: 10px;
+    float: right;
+    clear: both;
+    display: block;
+    position: relative;
+
+}
+
+#animals{
+    padding: 10px;
+    clear: both;
+    margin-top: 90px;
+    
+}
+
+.animalBTN{
+    background-color: teal;
+    color: white;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+    width:10%;
+    font-size:20px;
+
+}
+.animalBTN:hover{
+    background-color: springgreen;
+    color: black;
+}
+
+#addAnimal{
+    background-color: teal;
+    color: white;
+    height: 40px;
+    font-weight: bold;
+    border-radius: 10px;
+    width:30%;
+    font-size:20px;
+}
+#animal-input{
+    font-size:20px;
+}
+label{
+    font-weight:600;
+    font-size:20px;
+}
+#addAnimal:hover{
+    background-color: coral;
+    color: black;
+}
+
+.containerdiv{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.ratingDiv{
+    font-weight: bold;
+    padding: 4px;
+}
